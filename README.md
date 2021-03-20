@@ -9,9 +9,9 @@
   <a href="https://www.cursoemvideo.com/course/javascript/"> 🎓 JavaScript</a> - 40h - 2020
 
 - My Favorite Tools: <br>
-  :small_red_triangle: HTML<br>
-  :small_red_triangle: CSS<br>
-  :small_red_triangle: JS<br>
-  :small_red_triangle: FIGMA<br>
+  :blue_book: HTML<br>
+  :blue_book: CSS<br>
+  :blue_book: JS<br>
+  :blue_book: FIGMA<br>
 
  :ballot_box_with_check: I’m currently learning Front-End and looking to collaborate on an internship
