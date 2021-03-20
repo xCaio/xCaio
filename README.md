@@ -4,9 +4,9 @@
 <p><strong>I'm Caio Santos</strong> <br> 19y beginner programmer, Front End designer</p>
 
 - My 🎓: <br>
-  <a href="https://epsa.com.br"> 🎓 Tecnico em Informática</a> - at the moment <br>
-  <a href="https://epsa.com.br"> 🎓 Front-End Design Essencial</a> - at the moment <br>
-  <a href="https://www.cursoemvideo.com/course/javascript/"> 🎓 JavaScript</a> - 40h - 2020
+  <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - at the moment <br>
+  <a href="https://www.udemy.com/course/front-end-essencial/" target="_blank"> 🎓 Front-End Design Essencial</a> - at the moment <br>
+  <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020
 
 - My Favorite Tools: <br>
   :blue_book: HTML<br>
