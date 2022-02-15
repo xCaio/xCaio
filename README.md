@@ -1,5 +1,5 @@
 <img src="https://github.com/xCaio/xCaio/blob/main/bannerCaiocompleta.jpg">
-<h1>A little about myself</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little about myself</h1>
 
 <p><strong>I'm Caio Santos</strong> <br> 19y beginner programmer, Front End designer</p>
 
