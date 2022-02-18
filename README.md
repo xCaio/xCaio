@@ -22,10 +22,9 @@
  
  <br><br>
 ![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio) 
-
 <div align="center">
   <h2>📕 Repositorios</h2>
-<a href="https://github.com/natee/awesome-ppt">
+<a href="https://github.com/xcaio/Who-Is-This-Pokemon-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Who-Is-This-Pokemon-&theme=onedark" />
 </a>
 <a href="https://github.com/natee/build-your-own-vue-next">
