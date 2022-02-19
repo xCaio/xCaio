@@ -34,7 +34,7 @@
  <br><br>
  
  <h2 align="center"> 👨‍💻 Skills</h2>
- <img align="right" src="https://github.com/xCaio/xCaio/blob/main/bg.jpg" width="250">
+ <img align="right" src="https://github.com/xCaio/xCaio/blob/main/bg.jpg" width="250" style="border-radius: 10px;">
  
 ![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcaio&layout=compact)
