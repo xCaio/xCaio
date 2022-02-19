@@ -25,10 +25,10 @@
 <div align="center">
   <h2>📕 Repositories</h2>
 <a href="https://github.com/xcaio/Who-Is-This-Pokemon-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Who-Is-This-Pokemon-&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Who-Is-This-Pokemon-&theme=dark" />
 </a>
 <a href="https://github.com/xcaio/Ava-Landing-Page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
 </a>
 </div>
  <br><br>
