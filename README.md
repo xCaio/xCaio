@@ -21,10 +21,9 @@
  :ballot_box_with_check: I’m currently learning Front-End and looking to collaborate on an internship
  
  <br><br>
-![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
-  <h2>📕 Repositorios</h2>
+  <h2>📕 Repositories</h2>
 <a href="https://github.com/xcaio/Who-Is-This-Pokemon-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Who-Is-This-Pokemon-&theme=onedark" />
 </a>
@@ -32,3 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=onedark" />
 </a>
 </div>
+ <br><br>
+ 
+ <h2 align="center"> 👨‍💻 Skills</h2>
+ 
+![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcaio&layout=compact)
