@@ -35,5 +35,5 @@
  
  <h2 align="center"> 👨‍💻 Skills</h2>
  
-![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio) 
+![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcaio&layout=compact)
