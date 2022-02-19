@@ -22,6 +22,7 @@
  
  <br><br>
 ![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <h2>📕 Repositorios</h2>
 <a href="https://github.com/xcaio/Who-Is-This-Pokemon-">
