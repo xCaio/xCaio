@@ -37,3 +37,4 @@
  
 ![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xcaio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcaio&layout=compact)
+<img src="https://github.com/xCaio/xCaio/blob/main/bg.jpg" width="300">
