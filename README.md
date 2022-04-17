@@ -30,7 +30,11 @@
 <a href="https://github.com/xcaio/Ava-Landing-Page">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
 </a>
+  <a href="https://github.com/xCaio/crud-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
+</a>
 </div>
+
  <br><br>
  
  <h2 align="center"> 👨‍💻 Skills</h2>
