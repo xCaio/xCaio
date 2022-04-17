@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
 </a>
   <a href="https://github.com/xCaio/crud-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=crud-app&theme=dark" />
 </a>
 </div>
 
