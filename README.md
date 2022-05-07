@@ -33,6 +33,12 @@
   <a href="https://github.com/xCaio/crud-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=crud-app&theme=dark" />
 </a>
+  </a>
+  <a href="https://github.com/GstvMagalhaes/projeto_epsa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=projeto_epsa&theme=dark" />
+</a>
+  
+  
 </div>
 
  <br><br>
