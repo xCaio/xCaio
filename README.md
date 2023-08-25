@@ -6,7 +6,7 @@
 
 - My 🎓: <br>
   <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022 <br>
-  <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020
+  <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020 <br>
   <a href="https://www.udemy.com/course/front-end-essencial/" target="_blank"> 🎓 Front-End Design Essencial</a> - at the moment <br>
   
 
