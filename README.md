@@ -8,7 +8,7 @@
   <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022 <br>
   <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020 <br>
   <a href="https://www.udemy.com/course/front-end-essencial/" target="_blank"> 🎓 Front-End Design Essencial</a> - at the moment <br>
-  <a href="https://www.udemy.com/course/curso-react-native/" target="_blank">🎓 React Native</a> - at the moment <br>
+  <a href="https://www.udemy.com/course/curso-react-native/" target="_blank">🎓 React Native</a> apr/2024 - at the moment <br>
   <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"> 🎓 Análise e Desenvolvimento de Sistemas</a> - jan/2023 - at the moment <br>
 
   
