@@ -1,6 +1,6 @@
 <img src="https://github.com/xCaio/xCaio/blob/main/bannerCaiocompleta.jpg">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little about myself</h1>
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xoemowcGIxdXgzY21tM215YWpsMDl5anBoeGR0MHZteGMxZng4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
 <p><strong>I'm Caio Santos</strong> <br> 21y beginner programmer, Front End designer</p>
 
 
@@ -26,30 +26,45 @@
  
  <br><br>
 
-<div align="center">
-  <h2>📕 Repositories</h2>
-<a href="https://github.com/xcaio/atividades-do-cenora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=atividades-do-cenora&theme=dark" />
-</a>
-<a href="https://github.com/xcaio/Ava-Landing-Page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=Ava-Landing-Page&theme=dark" />
-</a>
-  <a href="https://github.com/xCaio/crud-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=crud-app&theme=dark" />
-</a>
-  </a>
-  <a href="https://github.com/GstvMagalhaes/cardpet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xcaio&repo=cardpet&theme=dark" />
-</a>
-  
-  
 </div>
-
- <br><br>
  
  <h2 align="center"> 👨‍💻 Skills</h2>
- <img align="right" src="https://github.com/xCaio/xCaio/blob/main/bg.jpg" width="250" style="border-radius: 10px;">
  
-![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xCaio)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCaio&layout=compact)
+  ![Caio's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=xCaio) <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCaio&layout=compact)
+
+
+<h2 align="center"> ✉️Contact Me</h2>
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRxcnRqOG80MTV6Z2Z5cTlweTZyMG9vOTk2MTQzaHhsOGttZjlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmLSyM6uVcY0na0yiZ/giphy.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:caiosantos1703@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/caio-santos-415b0517b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+*************
 
