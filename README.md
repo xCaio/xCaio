@@ -1,6 +1,6 @@
 <img src="https://github.com/xCaio/xCaio/blob/main/bannerCaiocompleta.jpg">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little about myself</h1>
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xoemowcGIxdXgzY21tM215YWpsMDl5anBoeGR0MHZteGMxZng4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" />
+  <img align="right" alt="GIF" src="https://www.enworld.org/media/berserk-gif.65727/full" />
 <p><strong>I'm Caio Santos</strong> <br> 21y beginner programmer, Front End designer</p>
 
 
