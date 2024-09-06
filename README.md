@@ -33,37 +33,4 @@
   <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=xcaio&layout=compact&theme=catppuccin&langs_count=8"/>
 </div>
 
-<h2 align="center"> ✉️Contact Me</h2>
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRxcnRqOG80MTV6Z2Z5cTlweTZyMG9vOTk2MTQzaHhsOGttZjlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmLSyM6uVcY0na0yiZ/giphy.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:caiosantos1703@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/caio-santos-415b0517b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-*************
 
