@@ -1,4 +1,4 @@
-<img src="https://github.com/xCaio/xCaio/blob/main/bannerCaiocompleta.jpg">
+<img src="https://github.com/xCaio/xCaio/blob/main/Frame 1.png">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little about myself</h1>
   <img align="right" alt="GIF" src="https://www.enworld.org/media/berserk-gif.65727/full" />
 <p><strong>I'm Caio Santos</strong> <br> 21y beginner programmer, Front End designer</p>
