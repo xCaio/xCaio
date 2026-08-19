@@ -23,13 +23,5 @@
 
 </div>
  
- <h2 align="center"> 👨‍💻 Skills</h2>
-
- <div align="center">
-  <a href="https://github.com/xcaio">
-  <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api?username=xcaio&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
- </a>
-  <img align="center" src="https://github-readme-stats-andeen171.vercel.app/api/top-langs?username=xcaio&layout=compact&theme=catppuccin&langs_count=8"/>
-</div>
 
 
