@@ -15,7 +15,7 @@
 
 
 - My Favourites Tools: <br> <br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vite,mysql,fastapi,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vite,mysql,postgresql,fastapi,python&theme=dark)](https://skillicons.dev)
 
 
  
