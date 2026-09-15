@@ -5,7 +5,6 @@
   Hi there! I'm Caio Santos
 </h1>
 
-<img align="right" alt="Developer" src="https://raw.githubusercontent.com/rg3915/rg3915/refs/heads/main/fcf7fd0c619bb87706533079240915f3.gif" width="400"/>
 
 ### 👨‍💻 About me
 
