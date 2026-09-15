@@ -1,27 +1,58 @@
-<img src="https://github.com/xCaio/xCaio/blob/main/Frame 1.png">
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> A little about myself</h1>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rg3915/rg3915/refs/heads/main/fcf7fd0c619bb87706533079240915f3.gif" width="400"/>
-<p><strong>I'm Caio Santos</strong> <br> 24y, Developer</p>
+<img src="https://github.com/xCaio/xCaio/blob/main/Frame%201.png">
 
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hi there! I'm Caio Santos
+</h1>
 
-- My 🎓: <br>
-  <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022 <br>
-  <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"> 🎓 JavaScript</a> - 40h - 2020 <br>
-  <a href="https://app.rocketseat.com.br/certificates/c856eea9-9463-4fdb-ba1b-8d4a8fc36097" target="_blank">🎓 React Native</a> - 5h 2026 <br>
-  <a href="https://cursos.anhanguera.com/inscricao/?utm_source=google&utm_medium=cpc&utm_campaign=gagp-090_gads_sch-l1_prim_grad_aedu_aon_grad_ecomm_institucional-ampla_na_na_inscricoes&utm_term=anhanguera&utm_content=gagp-090-001_gads_sch-l1_prim_grad_aedu_aon_grad_ecomm_institucional-ampla_na_na_inscricoes_auto_kwd_marca-google" target="_blank"> 🎓 Sistemas de informação</a> - jan/2026 - at the moment <br>
+<img align="right" alt="Developer" src="https://raw.githubusercontent.com/rg3915/rg3915/refs/heads/main/fcf7fd0c619bb87706533079240915f3.gif" width="400"/>
 
-  
-  
+### 👨‍💻 About me
 
+I'm Caio, a developer from Brazil.
 
-- My Favourites Tools: <br> <br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vite,mysql,postgresql,fastapi,python&theme=dark)](https://skillicons.dev)
+Currently studying **Information Systems** and focusing on **Backend Development with Python**.
 
+I've been working with IT for a few years and started getting more into software development through personal projects and automation.
 
- 
- <br><br>
+<br>
 
-</div>
- 
+### 🛠️ Technologies
 
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,react,typescript,javascript,tailwind,nodejs,mongodb,git,docker&theme=dark)
 
+<br>
+
+### 📌 Some of my projects
+
+**[Stock](https://github.com/xCaio/stock)**  
+Inventory management system built with FastAPI, PostgreSQL and React.
+
+**[Zebra Printer Manager](https://github.com/xCaio/zebra-printer-manager)**  
+Tool for managing Zebra printers, ZPL templates and print jobs.
+
+**[Barber](https://github.com/xCaio/barber)**  
+Barbershop web application built with React and Firebase.
+
+<br>
+
+### 🎓 Education
+
+- **Information Systems** — 2026 - Present
+- **Technical Degree in IT** — 2021 - 2022
+- **JavaScript** — Curso em Vídeo
+- **React Native** — Rocketseat
+
+<br>
+
+### 📚 Currently learning
+
+Python · FastAPI · SQLAlchemy · Docker · Software Architecture
+
+<br>
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucaio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cain.dev.br-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://cain.dev.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@cain.dev.br)
